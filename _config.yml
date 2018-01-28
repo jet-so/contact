@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Alejandro Escalante Mtz
 description: algo mas?
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
