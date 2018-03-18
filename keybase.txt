@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/alexesc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alejandroescalantemtz.github.io
+  * I am alexesc (https://keybase.io/alexesc) on keybase.
+  * I have a public key ASBsqiuK7gPawBqyJkcvrTKZMCFiEWTlRb7Xrj2MooLeCQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012091ce1e80754edd710f1b9854215d49127292bb451133604cb160db06c5adba230a",
+      "host": "keybase.io",
+      "kid": "01206caa2b8aee03dac01ab226472fad32993021621164e545bed7ae3d8ca282de090a",
+      "uid": "e58f58d6c38ff9f63189d30109ffca19",
+      "username": "alexesc"
+    },
+    "merkle_root": {
+      "ctime": 1521397823,
+      "hash": "574fe2e6315182ba6ca7edfe98d39a5fb71152292bcab05f3288268bd05127dc8d230b03b1b5b4a7b7cf8ca6ac129630697a60cf4b36622b25e2099d3e31237f",
+      "hash_meta": "83df3a14066de0809268555e37c0e0d5e0448909eb2fbc7a8b9a925e889c4c63",
+      "seqno": 2253147
+    },
+    "service": {
+      "hostname": "alejandroescalantemtz.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521397844,
+  "expire_in": 504576000,
+  "prev": "ce1a03895d9cd43ce1fa20dffd3940a28c19ab706f07aad1a3929f7cab75684a",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbKoriu4D2sAasiZHL60ymTAhYhFk5UW+1649jKKC3gkKp3BheWxvYWTFA1d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTFjZTFlODA3NTRlZGQ3MTBmMWI5ODU0MjE1ZDQ5MTI3MjkyYmI0NTExMzM2MDRjYjE2MGRiMDZjNWFkYmEyMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmNhYTJiOGFlZTAzZGFjMDFhYjIyNjQ3MmZhZDMyOTkzMDIxNjIxMTY0ZTU0NWJlZDdhZTNkOGNhMjgyZGUwOTBhIiwidWlkIjoiZTU4ZjU4ZDZjMzhmZjlmNjMxODlkMzAxMDlmZmNhMTkiLCJ1c2VybmFtZSI6ImFsZXhlc2MifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjEzOTc4MjMsImhhc2giOiI1NzRmZTJlNjMxNTE4MmJhNmNhN2VkZmU5OGQzOWE1ZmI3MTE1MjI5MmJjYWIwNWYzMjg4MjY4YmQwNTEyN2RjOGQyMzBiMDNiMWI1YjRhN2I3Y2Y4Y2E2YWMxMjk2MzA2OTdhNjBjZjRiMzY2MjJiMjVlMjA5OWQzZTMxMjM3ZiIsImhhc2hfbWV0YSI6IjgzZGYzYTE0MDY2ZGUwODA5MjY4NTU1ZTM3YzBlMGQ1ZTA0NDg5MDllYjJmYmM3YThiOWE5MjVlODg5YzRjNjMiLCJzZXFubyI6MjI1MzE0N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhbGVqYW5kcm9lc2NhbGFudGVtdHouZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjEzOTc4NDQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiY2UxYTAzODk1ZDljZDQzY2UxZmEyMGRmZmQzOTQwYTI4YzE5YWI3MDZmMDdhYWQxYTM5MjlmN2NhYjc1Njg0YSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBE/+VSNmoDc5i5CO0C/mLLKyOg1E5Vl42+CDkV6F9nBfm8qsgdoV7IBY5T1/9RGzMxoG6d2F9x7JDJTNYTVqULqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgRfRP+kRa8M0xk25UhR2f+ovxAFnsg3lxXKpQPNvGPSejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexesc
+
+==================================================================
