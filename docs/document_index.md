@@ -2,10 +2,10 @@
 
 * Historia Del Diseño
 * Biodiseño
-* Introdución A física
-* Mate-Fisica Para El Diseño
+* Introducción A física
+* Mate-Física Para El Diseño
 
-# Reportes, Documentos y Articulos
+# Reportes, Documentos y Artículos
 
 * El Neoplasticismo, Trabajo final de clase de fundamentos del diseño
 * Stop-motion puppet sculpting de Tom Brierton, Una Corta Reseña (Español)
@@ -13,14 +13,14 @@
 * Aplicación de la biomimética al diseño industrial, Resumen De Capítulo VI-Biodiseño Por Janitzio Égido Villarreal
 * Why Online Privacy Matters? (Ingles)
 
-# Presentaciónes
+# Presentaciones
 
 * Surrealismo: Online y en PDF
 * De Stijl
-* Abstracción postpictórica/Abstracción postpictórica
-* El Cubo: Abstación De Objetos, Clase fundamentos del diseño 2
-* En Defensa De La Encripcion
+* Abstracción Postpictórica/Americana
+* El Cubo: Abstracción De Objetos, Clase fundamentos del diseño 2
+* En Defensa Del Cifrado Digital
 
 ---
 
-¿Falta algun documento que nesesitas? contactame por correo y hazmelo saber en alexesc@disroot.com
+¿Falta algún documento que necesitas? Contáctame por correo y házmelo saber en alexesc@disroot.org
