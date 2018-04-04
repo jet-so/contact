@@ -1,3 +1,3 @@
 Aun en construción...
 
-[Documentos](docs\document_index.md)
+[Documentos](/docs/document_index.md)
