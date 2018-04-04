@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Notas
 
 * Historia Del Diseño
