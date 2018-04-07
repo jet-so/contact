@@ -5,7 +5,7 @@ layout: default
 
 # Documentos
 
-Aqui encontraras mis documentos, si buscas algo en especial usa > f > CTRL
+Aqui encontraras mis documentos, si buscas algo en especial usa <code>abc</code>
 
 ## Notas
 
