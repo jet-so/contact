@@ -5,7 +5,7 @@ layout: default
 
 # Documentos
 
-Aqui encontraras mis documentos, si buscas algo en especial usa <code>CTL</code> + <code>F</code>
+Aquí encontraras mis documentos, si buscas algo en especial usa la tecla <code>F3</code> para buscar por palabras clave, si estas en un teléfono [sigue esta guiá.](http://www.businessinsider.com/text-search-command-f-on-smartphone-browsers-2018-4)
 
 ## Notas
 
