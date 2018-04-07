@@ -5,7 +5,7 @@ layout: default
 
 # Documentos
 
-Aqui encontraras mis documentos, si buscas algo en especial usa <code>abc</code>
+Aqui encontraras mis documentos, si buscas algo en especial usa <code>CTL</code> + <code>F</code>
 
 ## Notas
 
