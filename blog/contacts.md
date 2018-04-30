@@ -2,8 +2,13 @@
 layout: default
 ---
 
+
+# How to have all your contacts on one safe place!
+
+
+By using Vcard files like the one below. First of all coppy the folowing text:
+
 ```
-  
 BEGIN:VCARD
 VERSION:3.0
 N:Lastname;Surname
@@ -16,6 +21,5 @@ TEL;TYPE=HOME:HOMEPHONE GOES HERE
 B-DAY:YYYY-MM-DD
 NOTE:Here you can write any notes, Using "N:" is not mandatory. Coppy paste this in a text file as much as you want. Remember to save as "NAME.vcf".Order doesn't matter. Begin and end with "BEGIN:VCARD VERSION:3.0 and END:VCARD" Keep this as a reminder to you in the future. More info on the website https://archive.li/tZGj4#selection-441.10-441.20
 END:VCARD
-
-
 ```
+
