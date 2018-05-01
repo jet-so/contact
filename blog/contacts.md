@@ -19,6 +19,18 @@ Yes, they are a standard since the 90's. They work on Windows computers, Apple c
 
 V-cards are as compatible and universal as it gets, services like facebook, gmail, android and iOS probably use them on the back end.
 
+# Can I trust them?
+
+Of course you can! V-cards are safe in the sense that they are simple plain text files that you create yourself, they will not compromise you to any computer virus like downloading a random program on the Internet will because v-cards are made and manged by you, not a random person from the Internet.
+
+They are private in the sense that they are stored in your device and nowhere else. Other methods like using Google calendar, Facebook in general, the contacts app on your phone are always looking any changes you make, they do this out of good will to provide cloud services but the problem is that they store your private information on their insecure servers. Remember the iCloud leaks? see, apple services are not to be trusted! Google, Yahoo and Facebook use similar security measures that could be compromised in the future. Likewise they are not to be trusted.
+
+According to the New York Times
+
+> Back in 2014 hackers stole private information of over 500 million users from yahoo servers, including contact information like their full names,addresses , telephone numbers and passwords. 
+> *[Source](https://www.nytimes.com/2016/09/23/technology/yahoo-hackers.html), [archived source](https://archive.li/KaLEY)*
+
+
 # What is a V-card and how to read and understand them?
 
 So what are v-cards? well they are made in plain text for easy reading this files end in .vcf (short for v card file) and they read very much like and old school address book. For example: lets say I want to store the phone numbers of King Kong and Mario Bros, in that case I want something like this:
@@ -103,7 +115,7 @@ NOTE:Here you can write any notes, Using "N:" is not mandatory. Coppy paste this
 END:VCARD
 ```
 
-# How to make your own V-card
+# How to make your own V-card.
 
 ## General instructions.
 
@@ -141,7 +153,7 @@ My computer is in Spanish so your process will be on your language.
 
 ![final step](https://i.imgur.com/BkTmPbe.png)
 
-## Get your contacts and manage them yourself
+## Get your contacts and manage them yourself. - Import and export V-cards from other services.
 
 Well now that you know how to make your own V-card from scratch you might want to get a head start by getting all your contacts in V-card form.
 
@@ -160,5 +172,3 @@ I would advise you to bookmark this page if you are interested in importing and 
 |Nokia 301 or other generic Nokia|[Instructions here](https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/)|-|-|
 |Backberry curve 9220 or other generic Blackberry|[Instructions here](https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html)|-|-|
 Facebook|-|[Instructions here](https://www.contactually.com/blog/3-facebook-contacts-workarounds-to-give-you-control-of-your-network)|-|
-
-
