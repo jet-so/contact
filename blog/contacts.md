@@ -3,7 +3,7 @@ layout: default
 ---
 
 ##### Table of Contents  
-* [Introduction to V-cards.](https://github.com/AlejandroEscalanteMtz/AlejandroEscalanteMtz.github.io/blob/master/blog/contacts.md#how-to-have-all-your-contacts-on-one-safe-place---introduction-to-v-cards)  
+* [Introduction to V-cards.](https://alejandroescalantemtz.github.io/blog/contacts.html#how-to-have-all-your-contacts-on-one-safe-place---introduction-to-v-cards)
 * [will it work on my device?](# Will V-cards work on my device?)  
 * [Can I trust them?](# Can I trust them?)
 * [What is a V-card and how to read and understand them?](# What is a V-card and how to read and understand them?)
