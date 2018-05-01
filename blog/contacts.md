@@ -4,6 +4,8 @@ layout: default
 
 # How to have all your contacts on one safe place!
 
+----
+
 ### Table of Contents  
 * [Introduction to V-cards.](https://alejandroescalantemtz.github.io/blog/contacts.html#introduction-to-v-cards)
 * [will it work on my device?](https://alejandroescalantemtz.github.io/blog/contacts.html#will-v-cards-work-on-my-device)  
