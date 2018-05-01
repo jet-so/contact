@@ -23,6 +23,7 @@ NOTE:Here you can write any notes, Using "N:" is not mandatory. Coppy paste this
 END:VCARD
 ```
 
+## Get your contacts and manage them yourself
 
 |Platform      | Import      | Export      | Import and export|
 |---|---|---|---|
@@ -34,6 +35,7 @@ END:VCARD
 |Android Phone|-|-|[For Samsung](https://www.fonepaw.com/solution/import-export-android-contacts.html) and [for all Androids](https://android.stackexchange.com/questions/41136/transfer-and-import-vcf-contacts)|
 |Nokia 301 or other generic Nokia|[Instructions here](https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/)|-|-|
 |Backberry curve 9220 or other generic Blackberry|[Instructions here](https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html)|-|-|
+Facebook|-|[Instructions here](https://www.contactually.com/blog/3-facebook-contacts-workarounds-to-give-you-control-of-your-network)|-|
 
 
 
