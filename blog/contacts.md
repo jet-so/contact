@@ -97,32 +97,40 @@ NOTE:Here you can write any notes, Using "N:" is not mandatory. Coppy paste this
 END:VCARD
 ```
 
-just copy paste this text on a plain text file and fill in the desired information, you can have multiple vcards inside one file, just make sure to save the document as "NAME.vcf", were you can write any title you want.
+# How to make your own V-card
+
+## General instructions.
+
+just copy paste the preset or start from scratch if you want on a plain text file and fill in the desired information, you can have multiple vcards inside one file, just make sure to save the document as "NAME.vcf", were you can write any title you want.
+
+## Specific instructions with pictures.
+
+The process on a windows computer will look like this:
 
 
-this is how the process will look:
-
-First create a new simple text document like this (on windows computers). 
+First create a new simple text document like this. 
 
 1. Go to your desired destination to save your vcard
-* right click
-* click on "New"
-* click on " Text Document"
+2. right click
+3. click on "New"
+4. click on " Text Document"
 
 My computer is in Spanish so your process will be on your language.
 
 ![new text file](https://i.imgur.com/gBN0Tgu.png)
 
-Next you want to paste my preset and fill it in with your desired info, remember you can coppy paste it multiple times to store multiple contact on one single file, like shown below
+5. Next you want to paste my preset and fill it in with your desired info, remember you can coppy paste it multiple times to store multiple contact on one single file, like shown below
 
 ![written vcard](https://i.imgur.com/r2JXPHJ.png)
 
-then click on the save button and name your vcard, I named mine "my contact list" then on the mnu below the name box, you will find a document type chooser section, make sure to select "All documents (*.*)"
+6. then click on the save button and name your vcard, I named mine "my contact list" 
 
 ![name the document](https://i.imgur.com/43IC9vc.png)
 
+7. then on the menu below the name box you will find a document type box, make sure to select "All documents (\*.\*)"
+
 ![save as .vcf](https://i.imgur.com/eQRE8VH.png)
 
-Once saved, you will see the icon change and it will look like this:
+8. Once saved, you will see the icon change and it will look like this:
 
 ![final step](https://i.imgur.com/BkTmPbe.png)
