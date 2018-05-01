@@ -27,14 +27,14 @@ END:VCARD
 
 |Platform      | Import      | Export      |
 |---|---|---|
-|Windows computer|||
-|Apple Computer|||
-|Gmail or Google contacts|||
-|Yahoo mail contacts|||
-|iPhone/iPad/iPod|||
-|Android Phone|||
-|Nokia 301 or other generic Nokia|||
-|Backberry curve 9220 or other generic Blackberry|||
+|Windows computer|[Instructions here]()|[Instructions here]()|
+|Apple Computer|[Instructions here]()|[Instructions here]()|
+|Gmail or Google contacts|[Instructions here]()|[Instructions here]()|
+|Yahoo mail contacts|[Instructions here]()|[Instructions here]()|
+|iPhone/iPad/iPod|[Instructions here]()|[Instructions here]()|
+|Android Phone|[Instructions here]()|[Instructions here]()|
+|Nokia 301 or other generic Nokia|[Instructions here]()|[Instructions here]()|
+|Backberry curve 9220 or other generic Blackberry|[Instructions here]()|[Instructions here]()|
 
 
 Import and export Vcards on a windows computer using outlook
