@@ -3,18 +3,18 @@ layout: default
 ---
 
 ##### Table of Contents  
-* [Introduction to V-cards.](#How to have all your contacts on one safe place! - Introduction to V-cards.)  
-* [will it work on my device?](#Will V-cards work on my device?)  
-* [Can I trust them?](#Can I trust them?)
-* [What is a V-card and how to read and understand them?](#What is a V-card and how to read and understand them?)
-* [V-card template](#V-card template)
-* [How to make your own V-card](#How to make your own V-card)
-	* [General instructions.](##General instructions.)
-	* [Specific instructions with pictures.](##Specific instructions with pictures.)
-* [Import and export V-cards from other services.](##Get your contacts and manage them yourself. - Import and export V-cards from other services.)
-* [More resources.](#More resources.)
+* [Introduction to V-cards.](https://github.com/AlejandroEscalanteMtz/AlejandroEscalanteMtz.github.io/blob/master/blog/contacts.md#how-to-have-all-your-contacts-on-one-safe-place---introduction-to-v-cards)  
+* [will it work on my device?](# Will V-cards work on my device?)  
+* [Can I trust them?](# Can I trust them?)
+* [What is a V-card and how to read and understand them?](# What is a V-card and how to read and understand them?)
+* [V-card template](# V-card template)
+* [How to make your own V-card](# How to make your own V-card)
+	* [General instructions.](## General instructions.)
+	* [Specific instructions with pictures.](## Specific instructions with pictures.)
+* [Import and export V-cards from other services.](## Get your contacts and manage them yourself. - Import and export V-cards from other services.)
+* [More resources.](# More resources.)
 
-
+https://alejandroescalantemtz.github.io/blog/contacts.html
 
 ----
 
@@ -194,4 +194,5 @@ Facebook|-|[Instructions here](https://www.contactually.com/blog/3-facebook-cont
 * [I made a video on this same topic]()
 * [Wikipedia article](https://en.wikipedia.org/wiki/VCard)
 * [More info on how to make V-cards](https://archive.li/tZGj4#selection-441.10-441.20)
+
 
