@@ -4,17 +4,16 @@ layout: default
 
 ##### Table of Contents  
 * [Introduction to V-cards.](https://alejandroescalantemtz.github.io/blog/contacts.html#how-to-have-all-your-contacts-on-one-safe-place---introduction-to-v-cards)
-* [will it work on my device?](# Will V-cards work on my device?)  
-* [Can I trust them?](# Can I trust them?)
-* [What is a V-card and how to read and understand them?](# What is a V-card and how to read and understand them?)
-* [V-card template](# V-card template)
-* [How to make your own V-card](# How to make your own V-card)
-	* [General instructions.](## General instructions.)
-	* [Specific instructions with pictures.](## Specific instructions with pictures.)
-* [Import and export V-cards from other services.](## Get your contacts and manage them yourself. - Import and export V-cards from other services.)
-* [More resources.](# More resources.)
+* [will it work on my device?](https://alejandroescalantemtz.github.io/blog/contacts.html#will-v-cards-work-on-my-device)  
+* [Can I trust them?](https://alejandroescalantemtz.github.io/blog/contacts.html#can-i-trust-them)
+* [What is a V-card and how to read and understand them?](https://alejandroescalantemtz.github.io/blog/contacts.html#what-is-a-v-card-and-how-to-read-and-understand-them)
+* [V-card template](https://alejandroescalantemtz.github.io/blog/contacts.html#v-card-template)
+* [How to make your own V-card](https://alejandroescalantemtz.github.io/blog/contacts.html#how-to-make-your-own-v-card)
+	* [General instructions.](https://alejandroescalantemtz.github.io/blog/contacts.html#general-instructions)
+	* [Specific instructions with pictures.](https://alejandroescalantemtz.github.io/blog/contacts.html#specific-instructions-with-pictures)
+* [Import and export V-cards from other services.](https://alejandroescalantemtz.github.io/blog/contacts.html#get-your-contacts-and-manage-them-yourself---import-and-export-v-cards-from-other-services)
+* [More resources.](https://alejandroescalantemtz.github.io/blog/contacts.html#more-resources)
 
-https://alejandroescalantemtz.github.io/blog/contacts.html
 
 ----
 
