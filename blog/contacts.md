@@ -1,41 +1,58 @@
----
-layout: default
----
-
-
 # How to have all your contacts on one safe place!
 
+Keeping in touch with old fiends can be a major pain, your closest friends might be on facebook but your old coworker is on telegram, your grandparents don't bother with technology non-scene and you can only contact them on the phone.
 
-By using Vcard files like the one below. First of all coppy the folowing text:
+Every service or company like facebook, Gmail, Outlook and your smart-phone are competing for being the most convenient way of keeping in touch, this endless competitions only serves to fragment your contact list. All your work contacts are on some old email account, your old college friends are somewhere in a FB group. In other words no service is truly convenient.
+
+If you could only go back to the old days of writing down phone numbers and emails on a reliable sheet of paper everything would be better! right? well... Old school address books are inconvenient if you have to keep them in a bag somewhere handy at all times, we can do better: V-cards are what you are looking for.
+
+V-cards are simple, small files. Easy to store on a USB stick or backed up in the cloud and they can store each and every single one of your contacts in one safe and easy to read place. That means all your facebook contacts, your smarphone address book and old emails in one place.
+
+So what are v-cards? well they are made in plain text for easy reading this files end in .vcf (short for v card file) and they read very much like and old school address book. For example: lets say I want to store the phone numbers of King Kong and Mario Bros, in that case I want something like this:
+
+```
+first contact begins here
+
+
+king kong
+
+cellphone number is 123...
+
+fisrt contact ends here
+
+second contact begins here
+
+mario bros
+
+home phone is 321..
+
+second contact ends here
+
+.
+.
+.
+.
+etc
+```
+
+We are writing this because we actually mean what's shown in the image below:
+
+![What you mean](https://i.imgur.com/1hppDxM.png)
+
+If you look at them side by side its very easy to see the correlation because people understand adress books and the concept of phone numbers, but computers are really dumb so we have to explain to them with a bit more detail.
+
+This is why instead of writing in the "first contact begins here" format we will write some very simple code, we will write:
 
 ```
 BEGIN:VCARD
 VERSION:3.0
-N:Lastname;Surname
-FN:FULL NAME GOES HERE
-ORG:ORGANIZATION GOES HERE
-URL:WEBSITE GOES HERE
-EMAIL:EMAIL GOES HERE
-TEL;TYPE=CELL:CELLPHONE GOES HERE
-TEL;TYPE=HOME:HOMEPHONE GOES HERE
-B-DAY:YYYY-MM-DD
-NOTE:Here you can write any notes, Using "N:" is not mandatory. Coppy paste this in a text file as much as you want. Remember to save as "NAME.vcf".Order doesn't matter. Begin and end with "BEGIN:VCARD VERSION:3.0 and END:VCARD" Keep this as a reminder to you in the future. More info on the website https://archive.li/tZGj4#selection-441.10-441.20 or https://alejandroescalantemtz.github.io/blog/contacts.html
+FN:king kong
+TEL;TYPE=CELL:123...
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:mario bros
+TEL;TYPE=HOME:321..
 END:VCARD
 ```
-
-## Get your contacts and manage them yourself
-
-|Platform      | Import      | Export      | Import and export|
-|---|---|---|---|
-|Windows computer|-|-|[Instructions here](https://www.howtogeek.com/173688/how-to-export-a-contact-to-and-import-a-contact-from-a-vcard-.vcf-file-in-outlook-2013/)|
-|Apple Computer|[Instructions here](https://support.apple.com/guide/contacts/import-contacts-adrbk1457/mac)|[Instructions here](https://support.apple.com/guide/contacts/export-and-archive-contacts-adrbdcfd32e6/mac)|-|
-|Gmail or Google contacts|-|-|[Instructions here](http://www.techfleece.com/2013/09/13/how-to-import-multiple-vcards-vcf-files-into-gmail-or-outlook/)|
-|Yahoo mail contacts|-|-|[Instructions here](https://www.wikihow.com/Export-Contacts-from-Yahoo)|
-|iPhone/iPad/iPod|[Instructions here](https://www.techwalla.com/articles/how-to-import-vcf-to-an-iphone)|[Instructions here](https://www.imobie.com/support/export-iphone-contacts-to-vcard.html)|-|
-|Android Phone|-|-|[For Samsung](https://www.fonepaw.com/solution/import-export-android-contacts.html) and [for all Androids](https://android.stackexchange.com/questions/41136/transfer-and-import-vcf-contacts)|
-|Nokia 301 or other generic Nokia|[Instructions here](https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/)|-|-|
-|Backberry curve 9220 or other generic Blackberry|[Instructions here](https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html)|-|-|
-Facebook|-|[Instructions here](https://www.contactually.com/blog/3-facebook-contacts-workarounds-to-give-you-control-of-your-network)|-|
-
-
 
