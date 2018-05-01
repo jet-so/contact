@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# How to have all your contacts on one safe place!
+
 ### Table of Contents  
 * [Introduction to V-cards.](https://alejandroescalantemtz.github.io/blog/contacts.html#how-to-have-all-your-contacts-on-one-safe-place---introduction-to-v-cards)
 * [will it work on my device?](https://alejandroescalantemtz.github.io/blog/contacts.html#will-v-cards-work-on-my-device)  
@@ -14,10 +16,13 @@ layout: default
 * [Import and export V-cards from other services.](https://alejandroescalantemtz.github.io/blog/contacts.html#get-your-contacts-and-manage-them-yourself---import-and-export-v-cards-from-other-services)
 * [More resources.](https://alejandroescalantemtz.github.io/blog/contacts.html#more-resources)
 
+### language:
+
+English, Español
 
 ----
 
-# How to have all your contacts on one safe place! - Introduction to V-cards.
+# Introduction to V-cards.
 
 Keeping in touch with old fiends can be a major pain, your closest friends might be on facebook but your old coworker is on telegram, your grandparents don't bother with technology non-scene and you can only contact them on the phone.
 
@@ -79,11 +84,11 @@ We are writing this because we actually mean what's shown in the image below:
 
 ![What you mean](https://i.imgur.com/1hppDxM.png)
 
-If you look at them side by side its very easy to see the correlation because people understand adress books and the concept of phone numbers, but computers are really dumb, they are truly stupid.
+If you look at them side by side its very easy to see the correlation because people understand address books and the concept of phone numbers, but computers are really dumb, they are truly stupid.
 
 ![big dumb dumb](http://techchunks.com/wp-content/uploads/2010/06/Rrror-while-creating-Error-Report.jpg)
 
-So we have to hold their hand and explain them what we want them to do in the simplest way possible, meaning we have to write some code.
+So we have to hold their hand and explain them what we want them to do in the simplest way possible, meaning we have to write some code. Don't worry, this code will be super simple, no fancy variables or programing, none of that just simple code that you can easily understand and read out loud to anyone without any confusion.
 
 This is why instead of writing in the "first contact begins here" format we will write some very simple code, we will write:
 
@@ -112,8 +117,6 @@ Vcards support saving their email, were they work at, their position, their webs
 [Check this website for more information](https://archive.li/tZGj4#selection-441.10-441.20)
 
 For your continence I have created a simple template that explains each type of information you can store.
-
-The princes is on another castle  
 
 # V-card template
 
