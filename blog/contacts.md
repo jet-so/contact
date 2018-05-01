@@ -109,6 +109,8 @@ At the beginning we write <code>BEGIN:VCARD (then the enter key) VERSION:3.0</co
 
 Vcards support saving their email, were they work at, their position, their website, birth dates and much more.
 
+[Check this website for more information](https://archive.li/tZGj4#selection-441.10-441.20)
+
 For your continence I have created a simple template that explains each type of information you can store.
 
 The princes is on another castle  
