@@ -37,7 +37,7 @@ V-cards are as compatible and universal as it gets, services like facebook, gmai
 
 Of course you can! V-cards are safe in the sense that they are simple plain text files that you create yourself, they will not compromise you to any computer virus like downloading a random program on the Internet will because v-cards are made and manged by you, not a random person from the Internet.
 
-They are private in the sense that they are stored in your device and nowhere else. Other methods like using Google calendar, Facebook in general, the contacts app on your phone are always looking any changes you make, they do this out of good will to provide cloud services but the problem is that they store your private information on their insecure servers. Remember the iCloud leaks? see, apple services are not to be trusted! Google, Yahoo and Facebook use similar security measures that could be compromised in the future. Likewise they are not to be trusted.
+They are private in the sense that they are stored in your device and nowhere else. Other methods like using Google contacts, Facebook in general, the contacts app on your phone are always looking any changes you make, they do this out of good will to provide cloud services but the problem is that they store your private information on their insecure servers. Remember the iCloud leaks? see, apple services are not to be trusted! Google, Yahoo and Facebook use similar security measures that could be compromised in the future. Likewise they are not to be trusted.
 
 According to the New York Times:
 
