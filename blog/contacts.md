@@ -76,7 +76,9 @@ At the beginning we write <code>BEGIN:VCARD (then the enter key) VERSION:3.0</co
 
 Vcards support saving their email, were they work at, their position, their website, birth dates and much more.
 
-For your simplicity I have created a simple template that explains each type of information you can store.
+For your continence I have created a simple template that explains each type of information you can store.
+
+The princes is on another castle  
 
 # V-card template
 
@@ -96,3 +98,31 @@ END:VCARD
 ```
 
 just copy paste this text on a plain text file and fill in the desired information, you can have multiple vcards inside one file, just make sure to save the document as "NAME.vcf", were you can write any title you want.
+
+
+this is how the process will look:
+
+First create a new simple text document like this (on windows computers). 
+
+1. Go to your desired destination to save your vcard
+* right click
+* click on "New"
+* click on " Text Document"
+
+My computer is in Spanish so your process will be on your language.
+
+![new text file](https://i.imgur.com/gBN0Tgu.png)
+
+Next you want to paste my preset and fill it in with your desired info, remember you can coppy paste it multiple times to store multiple contact on one single file, like shown below
+
+![written vcard](https://i.imgur.com/r2JXPHJ.png)
+
+then click on the save button and name your vcard, I named mine "my contact list" then on the mnu below the name box, you will find a document type chooser section, make sure to select "All documents (*.*)"
+
+![name the document](https://i.imgur.com/43IC9vc.png)
+
+![save as .vcf](https://i.imgur.com/eQRE8VH.png)
+
+Once saved, you will see the icon change and it will look like this:
+
+![final step](https://i.imgur.com/BkTmPbe.png)
