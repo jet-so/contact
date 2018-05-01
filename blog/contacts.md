@@ -2,8 +2,23 @@
 layout: default
 ---
 
+##### Table of Contents  
+* [Introduction to V-cards.](# How to have all your contacts on one safe place! - Introduction to V-cards.)  
+* [will it work on my device?](# Will V-cards work on my device?)  
+* [Can I trust them?](# Can I trust them?)
+* [What is a V-card and how to read and understand them?](# What is a V-card and how to read and understand them?)
+* [V-card template](# V-card template)
+* [How to make your own V-card](# How to make your own V-card)
+	* [General instructions.](## General instructions.)
+	* [Specific instructions with pictures.](## Specific instructions with pictures.)
+* [Import and export V-cards from other services.](## Get your contacts and manage them yourself. - Import and export V-cards from other services.)
+* [More resources.](# More resources.)
 
-# How to have all your contacts on one safe place! - introduction to V-cards.
+
+
+----
+
+# How to have all your contacts on one safe place! - Introduction to V-cards.
 
 Keeping in touch with old fiends can be a major pain, your closest friends might be on facebook but your old coworker is on telegram, your grandparents don't bother with technology non-scene and you can only contact them on the phone.
 
@@ -25,9 +40,10 @@ Of course you can! V-cards are safe in the sense that they are simple plain text
 
 They are private in the sense that they are stored in your device and nowhere else. Other methods like using Google calendar, Facebook in general, the contacts app on your phone are always looking any changes you make, they do this out of good will to provide cloud services but the problem is that they store your private information on their insecure servers. Remember the iCloud leaks? see, apple services are not to be trusted! Google, Yahoo and Facebook use similar security measures that could be compromised in the future. Likewise they are not to be trusted.
 
-According to the New York Times
+According to the New York Times:
 
-> Back in 2014 hackers stole private information of over 500 million users from yahoo servers, including contact information like their full names,addresses , telephone numbers and passwords. 
+> Back in 2014 hackers stole private information of over 500 million users from yahoo servers, including contact information like their full names, addresses, telephone numbers and passwords. 
+
 > *[Source](https://www.nytimes.com/2016/09/23/technology/yahoo-hackers.html), [archived source](https://archive.li/KaLEY)*
 
 
@@ -172,3 +188,10 @@ I would advise you to bookmark this page if you are interested in importing and 
 |Nokia 301 or other generic Nokia|[Instructions here](https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/)|-|-|
 |Backberry curve 9220 or other generic Blackberry|[Instructions here](https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html)|-|-|
 Facebook|-|[Instructions here](https://www.contactually.com/blog/3-facebook-contacts-workarounds-to-give-you-control-of-your-network)|-|
+
+# More resources.
+
+* [I made a video on this same topic]()
+* [Wikipedia article](https://en.wikipedia.org/wiki/VCard)
+* [More info on how to make V-cards](https://archive.li/tZGj4#selection-441.10-441.20)
+
