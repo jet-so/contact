@@ -5,7 +5,7 @@ layout: default
 # How to have all your contacts on one safe place!
 
 ### Table of Contents  
-* [Introduction to V-cards.](https://alejandroescalantemtz.github.io/blog/contacts.html#how-to-have-all-your-contacts-on-one-safe-place---introduction-to-v-cards)
+* [Introduction to V-cards.](https://alejandroescalantemtz.github.io/blog/contacts.html#introduction-to-v-cards)
 * [will it work on my device?](https://alejandroescalantemtz.github.io/blog/contacts.html#will-v-cards-work-on-my-device)  
 * [Can I trust them?](https://alejandroescalantemtz.github.io/blog/contacts.html#can-i-trust-them)
 * [What is a V-card and how to read and understand them?](https://alejandroescalantemtz.github.io/blog/contacts.html#what-is-a-v-card-and-how-to-read-and-understand-them)
@@ -18,7 +18,7 @@ layout: default
 
 ### language:
 
-English, Español
+English, [Español]()
 
 ----
 
