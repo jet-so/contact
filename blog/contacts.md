@@ -31,7 +31,7 @@ END:VCARD
 |Gmail or Google contacts|-|-|[Instructions here](http://www.techfleece.com/2013/09/13/how-to-import-multiple-vcards-vcf-files-into-gmail-or-outlook/)|
 |Yahoo mail contacts|-|-|[Instructions here](https://www.wikihow.com/Export-Contacts-from-Yahoo)|
 |iPhone/iPad/iPod|[Instructions here](https://www.techwalla.com/articles/how-to-import-vcf-to-an-iphone)|[Instructions here](https://www.imobie.com/support/export-iphone-contacts-to-vcard.html)|-|
-|Android Phone|-|-|[For Samsung](https://www.fonepaw.com/solution/import-export-android-contacts.html) and [For all Androids](https://android.stackexchange.com/questions/41136/transfer-and-import-vcf-contacts)|
+|Android Phone|-|-|[For Samsung](https://www.fonepaw.com/solution/import-export-android-contacts.html) and [for all Androids](https://android.stackexchange.com/questions/41136/transfer-and-import-vcf-contacts)|
 |Nokia 301 or other generic Nokia|[Instructions here](https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/)|-|-|
 |Backberry curve 9220 or other generic Blackberry|[Instructions here](https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html)|-|-|
 
