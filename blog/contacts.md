@@ -26,7 +26,6 @@ END:VCARD
 
 
 |Platform      | Import      | Export      | Import and export|
-
 |---|---|---|
 
 |Windows computer|[Instructions here]()|[Instructions here]()|[Instructions here](https://www.howtogeek.com/173688/how-to-export-a-contact-to-and-import-a-contact-from-a-vcard-.vcf-file-in-outlook-2013/)|
