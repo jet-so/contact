@@ -22,15 +22,18 @@ B-DAY:YYYY-MM-DD
 NOTE:Here you can write any notes, Using "N:" is not mandatory. Coppy paste this in a text file as much as you want. Remember to save as "NAME.vcf".Order doesn't matter. Begin and end with "BEGIN:VCARD VERSION:3.0 and END:VCARD" Keep this as a reminder to you in the future. More info on the website https://archive.li/tZGj4#selection-441.10-441.20
 END:VCARD
 ```
-|Platform      | Import      | Export      | Import and export| Notes |
-|---|---|---|---|---|
-|Windows computer|-|-|[Instructions here](https://www.howtogeek.com/173688/how-to-export-a-contact-to-and-import-a-contact-from-a-vcard-.vcf-file-in-outlook-2013/)|Notes |
-|Apple Computer|[Instructions here](https://support.apple.com/guide/contacts/import-contacts-adrbk1457/mac)|[Instructions here](https://support.apple.com/guide/contacts/export-and-archive-contacts-adrbdcfd32e6/mac)|-|Notes |
-|Gmail or Google contacts|-|-|[Instructions here](http://www.techfleece.com/2013/09/13/how-to-import-multiple-vcards-vcf-files-into-gmail-or-outlook/)|Notes |
-|Yahoo mail contacts|-|-|[Instructions here](https://www.wikihow.com/Export-Contacts-from-Yahoo)|Notes |
-|iPhone/iPad/iPod|[Instructions here](https://www.techwalla.com/articles/how-to-import-vcf-to-an-iphone)|[Instructions here](https://www.imobie.com/support/export-iphone-contacts-to-vcard.html)|-|Notes |
-|Android Phone|-|-|[Link 1](https://www.fonepaw.com/solution/import-export-android-contacts.html) and [Link 2](https://android.stackexchange.com/questions/41136/transfer-and-import-vcf-contacts)|Notes |
-|Nokia 301 or other generic Nokia|[Instructions here](https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/)|-|-|Notes |
-|Backberry curve 9220 or other generic Blackberry|[Instructions here](https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html)|-|-|Notes |
+
+
+|Platform      | Import      | Export      | Import and export|
+|---|---|---|---|
+|Windows computer|-|-|[Instructions here](https://www.howtogeek.com/173688/how-to-export-a-contact-to-and-import-a-contact-from-a-vcard-.vcf-file-in-outlook-2013/)|
+|Apple Computer|[Instructions here](https://support.apple.com/guide/contacts/import-contacts-adrbk1457/mac)|[Instructions here](https://support.apple.com/guide/contacts/export-and-archive-contacts-adrbdcfd32e6/mac)|-|
+|Gmail or Google contacts|-|-|[Instructions here](http://www.techfleece.com/2013/09/13/how-to-import-multiple-vcards-vcf-files-into-gmail-or-outlook/)|
+|Yahoo mail contacts|-|-|[Instructions here](https://www.wikihow.com/Export-Contacts-from-Yahoo)|
+|iPhone/iPad/iPod|[Instructions here](https://www.techwalla.com/articles/how-to-import-vcf-to-an-iphone)|[Instructions here](https://www.imobie.com/support/export-iphone-contacts-to-vcard.html)|-|
+|Android Phone|-|-|[For Samsung](https://www.fonepaw.com/solution/import-export-android-contacts.html) and [Foor all Android](https://android.stackexchange.com/questions/41136/transfer-and-import-vcf-contacts)|
+|Nokia 301 or other generic Nokia|[Instructions here](https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/)|-|-|
+|Backberry curve 9220 or other generic Blackberry|[Instructions here](https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html)|-|-|
+
 
 
