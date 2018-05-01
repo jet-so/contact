@@ -23,3 +23,43 @@ NOTE:Here you can write any notes, Using "N:" is not mandatory. Coppy paste this
 END:VCARD
 ```
 
+
+
+|Platform      | Import      | Export      |
+|---|---|---|
+|Windows computer|||
+|Apple Computer|||
+|Gmail or Google contacts|||
+|Yahoo mail contacts|||
+|iPhone/iPad/iPod|||
+|Android Phone|||
+|Nokia 301 or other generic Nokia|||
+|Backberry curve 9220 or other generic Blackberry|||
+
+
+Import and export Vcards on a windows computer using outlook
+https://www.howtogeek.com/173688/how-to-export-a-contact-to-and-import-a-contact-from-a-vcard-.vcf-file-in-outlook-2013/
+
+Impost/export contacts using Vcards on Gmail and outlook
+http://www.techfleece.com/2013/09/13/how-to-import-multiple-vcards-vcf-files-into-gmail-or-outlook/
+
+Export-import contacts from yahoo mail using vcards
+https://www.wikihow.com/Export-Contacts-from-Yahoo
+
+Export contacts as Vcard on Mac computers
+https://support.apple.com/guide/contacts/export-and-archive-contacts-adrbdcfd32e6/mac
+
+Import Vcards as contacts on Mac computers
+https://support.apple.com/guide/contacts/import-contacts-adrbk1457/mac
+
+Export contacts as Vcars on iphone/ipad/ipod
+https://www.imobie.com/support/export-iphone-contacts-to-vcard.htm
+
+Import contacts vcards on iphone/ipad/ipod
+https://www.techwalla.com/articles/how-to-import-vcf-to-an-iphone
+
+Use vcards on nokia 301
+https://www.lambrospetrou.com/articles/nokia-symbian-s40-contacts-transfer/
+
+Vcard on blackberry phone "blackberry curve 9220"
+https://mobiletrans.wondershare.com/contacts/import-vcf-to-blackberry.html
