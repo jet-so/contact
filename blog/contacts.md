@@ -3,16 +3,16 @@ layout: default
 ---
 
 ##### Table of Contents  
-* [Introduction to V-cards.](# How to have all your contacts on one safe place! - Introduction to V-cards.)  
-* [will it work on my device?](# Will V-cards work on my device?)  
-* [Can I trust them?](# Can I trust them?)
-* [What is a V-card and how to read and understand them?](# What is a V-card and how to read and understand them?)
-* [V-card template](# V-card template)
-* [How to make your own V-card](# How to make your own V-card)
-	* [General instructions.](## General instructions.)
-	* [Specific instructions with pictures.](## Specific instructions with pictures.)
-* [Import and export V-cards from other services.](## Get your contacts and manage them yourself. - Import and export V-cards from other services.)
-* [More resources.](# More resources.)
+* [Introduction to V-cards.](#How to have all your contacts on one safe place! - Introduction to V-cards.)  
+* [will it work on my device?](#Will V-cards work on my device?)  
+* [Can I trust them?](#Can I trust them?)
+* [What is a V-card and how to read and understand them?](#What is a V-card and how to read and understand them?)
+* [V-card template](#V-card template)
+* [How to make your own V-card](#How to make your own V-card)
+	* [General instructions.](##General instructions.)
+	* [Specific instructions with pictures.](##Specific instructions with pictures.)
+* [Import and export V-cards from other services.](##Get your contacts and manage them yourself. - Import and export V-cards from other services.)
+* [More resources.](#More resources.)
 
 
 
