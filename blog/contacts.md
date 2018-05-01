@@ -4,6 +4,11 @@ layout: default
 
 # How to have all your contacts on one safe place!
 
+
+In this article you will find out how to manage your contact list using V-cards, how to make them, import your other contacts into your own list and export them into all your devices and why using them is more private and secure than a cloud based service.
+
+
+
 ----
 
 ### Table of Contents  
@@ -201,4 +206,7 @@ Facebook|-|[Instructions here](https://www.contactually.com/blog/3-facebook-cont
 * [Wikipedia article](https://en.wikipedia.org/wiki/VCard)
 * [More info on how to make V-cards](https://archive.li/tZGj4#selection-441.10-441.20)
 
+---
+
+Contact me at alexesc@disroot.org
 
