@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##### Table of Contents  
+### Table of Contents  
 * [Introduction to V-cards.](https://alejandroescalantemtz.github.io/blog/contacts.html#how-to-have-all-your-contacts-on-one-safe-place---introduction-to-v-cards)
 * [will it work on my device?](https://alejandroescalantemtz.github.io/blog/contacts.html#will-v-cards-work-on-my-device)  
 * [Can I trust them?](https://alejandroescalantemtz.github.io/blog/contacts.html#can-i-trust-them)
