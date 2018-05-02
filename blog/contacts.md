@@ -203,7 +203,7 @@ Facebook|-|[Instructions here](https://www.contactually.com/blog/3-facebook-cont
 # More resources.
 
 * [I made a video on this same topic]()
-* [Slide show I made on this topic, used in the video](https://slides.com/alejandroescalante/vcf)
+* [Slide show I made on this topic, used in the video](https://slides.com/alexesc/vcf)
 * [Wikipedia article](https://en.wikipedia.org/wiki/VCard)
 * [More info on how to make V-cards](https://archive.li/tZGj4#selection-441.10-441.20)
 
