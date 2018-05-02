@@ -24,9 +24,9 @@ Aquí encontraras mis documentos, si buscas algo en especial usa la tecla <code>
 
 ## Presentaciones
 
-* [Surrealismo](https://slides.com/alejandroescalante/surrealismo)
-* [De Stijl](https://slides.com/alejandroescalante/estilo)
-* [Abstracción Postpictórica/Americana](https://slides.com/alejandroescalante/abstraame)
+* [Surrealismo](https://slides.com/alexesc/surrealismo)
+* [De Stijl](https://slides.com/alexesc/estilo)
+* [Abstracción Postpictórica/Americana](https://slides.com/alexesc/abstraame)
 * [El Cubo: Abstracción De Objetos, Clase fundamentos del diseño 2](https://mega.nz/#F!HPQ3xbqA!1tEtb46zmauVYwOqi2hqGg)
 * [En Defensa Del Cifrado Digital](https://mega.nz/#!SDIgTbqA!KLVVAUfq4JNfi4VGPF7GDTCWSSpCS3dh_HGB8aDgI_w)
 
