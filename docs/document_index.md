@@ -20,7 +20,7 @@ Aquí encontraras mis documentos, si buscas algo en especial usa la tecla <code>
 * [Stop-motion puppet sculpting de Tom Brierton, Una Corta Reseña (Español)](https://mega.nz/#!qTADhSzL!Nw1b_sPmCBqWY_Cpo9Yes8tjX0o0n8Xa-3tEA7RP_2g)
 * [Ciclo De Vida De Plumas BIC Y Su Impacto Ambiental](https://mega.nz/#!HCQEhYRA!lkinWjdqYb7J5XEpiYQPVHIvctnbjDs9L_AnEy4G5PM)  
 * [Aplicación de la biomimética al diseño industrial, Resumen De Capítulo VI-Biodiseño Por Janitzio Égido Villarreal](https://mega.nz/#!eepV0JqT!6KkmUieh5pgXWlzFq8ZdEbx2pDdOW36z5aascSG0-VQ)
-* Why Online Privacy Matters? (Ingles)
+
 
 ## Presentaciones
 
@@ -29,6 +29,12 @@ Aquí encontraras mis documentos, si buscas algo en especial usa la tecla <code>
 * [Abstracción Postpictórica/Americana](https://slides.com/alejandroescalante/abstraame)
 * [El Cubo: Abstracción De Objetos, Clase fundamentos del diseño 2](https://mega.nz/#F!HPQ3xbqA!1tEtb46zmauVYwOqi2hqGg)
 * [En Defensa Del Cifrado Digital](https://mega.nz/#!SDIgTbqA!KLVVAUfq4JNfi4VGPF7GDTCWSSpCS3dh_HGB8aDgI_w)
+
+## Blog
+
+* [How to have all your contacts on one safe place.](https://alejandroescalantemtz.github.io/blog/contacts.html)
+* Why Online Privacy Matters? (Ingles)
+
 
 ---
 
