@@ -2,7 +2,7 @@
 layout: default
 ---
 
-hey, soy Alejandro Escalante, un estudiante Mexicano de animación y arte digital de 19 años.
+hola, soy Alejandro Escalante, un estudiante Mexicano de animación y arte digital de 19 años.
 
 Me gusta el cine, la computación y mi espacio.
 
@@ -13,6 +13,8 @@ Película favorita: Odisea del espacio 2001
 café>te
 
 Prueba de identidad en [keybase](https://keybase.io/alexesc)
+
+> [FAQ[()
 
 
 ---
