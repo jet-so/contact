@@ -1,3 +1,5 @@
+<meta name="yandex-verification" content="69aa3c2b56e86c5e" />
+
 Hola, esta es mi pagina personal donde puedes encontrar mis documentos y otros recursos.
 
 Aun en construción...
