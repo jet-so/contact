@@ -9,7 +9,7 @@ Aquí encontraras mis documentos, si buscas algo en especial usa la tecla <code>
 
 ## Notas
 
-* Historia Del Diseño
+* [Historia Del Diseño](https://alex-esc.github.io/docs/historia_del_dise%C3%B1o_recursos.html)
 * Biodiseño
 * Introducción A física
 * Mate-Física Para El Diseño
