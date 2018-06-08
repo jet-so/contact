@@ -2,7 +2,7 @@
 
 # Notas
 
-[Regresa a mis notas](alex-esc.github.io/historia-del-diseño)
+[Regresa a mis notas](https://alex-esc.github.io/docs/historia_del_dise%C3%B1o_recursos.html)
 
 # Presentaciones -Tabla de contenidos
 
