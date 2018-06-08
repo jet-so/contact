@@ -1,5 +1,47 @@
 # Historia del diseño industrial
 
+# Tabla de contenidos
+
+* [Los predecesores del diseño y la revolución industrial 1750- 1850](https://alex-esc.github.io/docs/slides_h_d.html#los-predecesores-del-diseño-y-la-revolución-industrial-1750--1850)
+
+* [Antecedentes, revolución industrial y los shakers](https://alex-esc.github.io/docs/slides_h_d.html#antecedentes-revolución-industrial-y-los-shakers)
+
+* [Arts and Crafts & Art Nouveau](https://alex-esc.github.io/docs/slides_h_d.html#arts-and-crafts--art-nouveau)
+
+* [Principales diseñadores de la época](https://alex-esc.github.io/docs/slides_h_d.html#principales-diseñadores-de-la-época)
+
+* [Art deco](https://alex-esc.github.io/docs/slides_h_d.html#art-deco)
+
+* [Deutsche Werkbund](https://alex-esc.github.io/docs/slides_h_d.html#deutsche-werkbund)
+
+* [Actividad](https://alex-esc.github.io/docs/slides_h_d.html#actividad)
+
+* [Bauhaus](https://alex-esc.github.io/docs/slides_h_d.html#bauhaus)
+
+* [Bauhaus y sus Diseñadores](https://alex-esc.github.io/docs/slides_h_d.html#bauhaus-y-sus-diseñadores)
+
+* [El Styling](https://alex-esc.github.io/docs/slides_h_d.html#el-styling)
+
+* [la post guerra y la ULM](https://alex-esc.github.io/docs/slides_h_d.html#la-post-guerra-y-la-ulm)
+
+* [Braun & Buckminster](https://alex-esc.github.io/docs/slides_h_d.html#braun--buckminster)
+
+* [Diseño post guerra en el resto del mundo](https://alex-esc.github.io/docs/slides_h_d.html#diseño-post-guerra-en-el-resto-del-mundo)
+
+* [Diseño Japones años 70](https://alex-esc.github.io/docs/slides_h_d.html#diseño-japones-años-70)
+
+* [Diseño en china](https://alex-esc.github.io/docs/slides_h_d.html#diseño-en-china)
+
+* [Los 80s](https://alex-esc.github.io/docs/slides_h_d.html#los-80s)
+
+* [Los 90s](https://alex-esc.github.io/docs/slides_h_d.html#los-90s)
+
+* [¿Que diseño es? actividad de practica](https://alex-esc.github.io/docs/slides_h_d.html#que-diseño-es-actividad-de-practica)
+
+* [Nuevas reglas de diseño](https://alex-esc.github.io/docs/slides_h_d.html#nuevas-reglas-de-diseño)
+
+* [Diseñadores actuales y marcas de Mobiliario](https://alex-esc.github.io/docs/slides_h_d.html#diseñadores-actuales-y-marcas-de-mobiliario)
+
 ## Presentaciones de clase
 
 ### Los predecesores del diseño y la revolución industrial 1750- 1850
