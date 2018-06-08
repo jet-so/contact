@@ -19,4 +19,10 @@ Perfecto! este verano estaré haciendo videos explicando la materia usando la pr
 
 Si necesitas las explicaciones lo mas pronto posible, mientras puedes ver las presentaciones hechas por mi profesor:
 
-[Link]()
+[Link](https://alex-esc.github.io/docs/slides_h_d.html)
+
+<a href="{{ https://alex-esc.github.io/docs/slides_h_d.html }}" class="btn">Link</a>
+
+# Link corto
+
+[alex-esc.github.io/historia-del-diseño](https://alex-esc.github.io/historia-del-diseño.html) te redirige a esta pagina.
