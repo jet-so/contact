@@ -42,6 +42,11 @@
 
 * [Diseñadores actuales y marcas de Mobiliario](https://alex-esc.github.io/docs/slides_h_d.html#diseñadores-actuales-y-marcas-de-mobiliario)
 
+
+> [Regresa a mis notas](alex-esc.github.io/historia-del-diseño)
+
+---
+
 ## Presentaciones de clase
 
 ### Los predecesores del diseño y la revolución industrial 1750- 1850
