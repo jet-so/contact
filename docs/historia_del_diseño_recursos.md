@@ -21,7 +21,6 @@ Si necesitas las explicaciones lo mas pronto posible, mientras puedes ver las pr
 
 [Link](https://alex-esc.github.io/docs/slides_h_d.html)
 
-<a href="{{ https://alex-esc.github.io/docs/slides_h_d.html }}" class="btn">Link</a>
 
 # Link corto
 
