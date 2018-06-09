@@ -10,7 +10,7 @@ Aquí encontraras mis documentos, si buscas algo en especial usa la tecla <code>
 ## Notas
 
 * [Historia Del Diseño](https://alex-esc.github.io/docs/historia_del_dise%C3%B1o_recursos.html)
-* Biodiseño
+* [Biodiseño](https://alex-esc.github.io/docs/bio_dise%C3%B1o_recursos.html)
 * Introducción A física
 * Mate-Física Para El Diseño
 * [Introdución A Programación - c#](https://mega.nz/#F!iWwFRAJA!UJfE12U8jh8AhCUGHq1VxQ)
