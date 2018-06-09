@@ -16,4 +16,4 @@ Si necesitas las explicaciones lo mas pronto posible mandame un correo para mand
 
 ## Link corto
 
-[alex-esc.github.io/bio-diseño](https://alex-esc.github.io/historia-del-diseño.html) te redirige a esta pagina.
+[alex-esc.github.io/bio-diseño](https://alex-esc.github.io/docs/bio_dise%C3%B1o_recursos.html) te redirige a esta pagina.
