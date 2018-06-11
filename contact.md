@@ -2,21 +2,22 @@
 layout: default
 ---
 
+# Contacto
 
-# E-Mail & Delta-Chat
+## E-Mail & Delta-Chat
 
-<>alexesc@disroot.org<>
+<alexesc@disroot.org>
 
-# Telegram
+## Telegram
 
-<>t.me/alex_esc<>
+<t.me/alex_esc>
 
-# Keybase
+## Keybase
 
-<>alexesc<>
+<alexesc>
 
 ---
 
 ## Prueba de identidad
 
-<>alex-esc.github.io/keybase<>
+<alex-esc.github.io/keybase>
