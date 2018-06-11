@@ -12,9 +12,9 @@ Película favorita: Odisea del espacio 2001
 
 café>te
 
-Prueba de identidad en [keybase](https://keybase.io/alexesc)
+[Ponte en contacto](https://alex-esc.github.io/contact)
 
-> [FAQ[()
+> [FAQ]()
 
 
 ---
