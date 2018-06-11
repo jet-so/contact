@@ -33,7 +33,7 @@ Aquí encontraras mis documentos, si buscas algo en especial usa la tecla <code>
 
 ## Blog
 
-* [How to have all your contacts on one safe place.](https://alejandroescalantemtz.github.io/blog/contacts.html)
+* [How to have all your contacts on one safe place.](https://alex-esc.github.io/blog/contacts.html)
 * Why Online Privacy Matters? (Ingles)
 
 
